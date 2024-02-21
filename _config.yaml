@@ -1,8 +1,8 @@
 # site properties and page defaults
 title: trishullab
 subtitle: 
-description: The Trishul lab at the University of Texas at Austin studies a broad range of problems at the interface of automated reasoning, machine learning, and programming languages. We hope that our solutions to these problems will lead to a new class of intelligent systems that are reliable, secure, and transparent by construction and can perform reasoning-intensive tasks that are beyond the scope of contemporary AI.
-header: images/background.jpg
+description: The Trishul lab at the University of Texas at Austin studies a broad range of problems the interface of automated reasoning, machine learning, and programming languages. We hope that our solutions to these problems will lead to a new class of intelligent systems that are reliable, secure, and transparent by construction and can perform reasoning-intensive tasks beyond the scope of contemporary AI.
+header: images/trishul-12-3.png
 footer: images/background.jpg
 
 # site social media and other links
