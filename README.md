@@ -1,5 +1,5 @@
 
-# trishullabDESCRIPTION=An engaging 1-3 sentence description of your lab.'s Website
+# Trustworthy Intelligent Systems Laboratory @ The University of Texas at Austin
 
 Visit **[trishullab.github.io](https://trishullab.github.io)** 🚀
 
