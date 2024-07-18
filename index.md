@@ -1,17 +1,19 @@
 ---
 ---
 
-# trishullabDESCRIPTION=An engaging 1-3 sentence description of your lab.'s Website
-
-
+# Trishul: Trustworthy Intelligent Systems @ UT Austin
 
 {% include section.html %}
 
-## Highlights
-
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+The Trishul lab at UT Austin, directed by Prof. Swarat Chaudhuri,
+studies problems at the interface of automated reasoning, programming
+languages, and machine learning. Through a combination of symbolic
+knowledge representations, statistical learning, search, and automated
+reasoning, we hope to build a new class of intelligent systems that
+excel at reasoning-intensive tasks and are reliable, secure, and
+transparent by construction.
 
 {%
   include button.html
