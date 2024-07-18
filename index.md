@@ -1,8 +1,6 @@
 ---
 ---
 
-# Trishul: Trustworthy Intelligent Systems @ UT Austin
-
 {% include section.html %}
 
 {% capture text %}
