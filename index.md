@@ -20,6 +20,25 @@ transparent by construction.
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
+  %}
+
+
+{%
+  include button.html
+  link="team"
+  text="Meet our team"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+{%
+  include button.html
+  link="projects"
+  text="Browse our code"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
 %}
 
 {% endcapture %}
